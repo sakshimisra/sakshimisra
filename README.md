@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sakshimisra
-- 👀 I’m interested in data driven world. Machine learning enthusiast.
-- 🌱 I’m currently learning deep learning algorithms and data visualization tool.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me .
+- 👀 I currently doing master in Bioinformatics, majors in Data Science.
+- 👀 Based on my academics and work experinces and also my interests, I consider myself data science and machine learning enthusiast.
+- 📫 One could reach me at sakshimisra0307@gmail.com .
 
 <!---
 sakshimisra/sakshimisra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
