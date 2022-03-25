@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sakshimisra
-- 👀 I currently doing master in Bioinformatics, majors in Data Science.
+- 👋 Hi, I’m Sakshi 
+- 👀 I am currently doing master in Bioinformatics, majors in Data Science.
 - 👀 Based on my academics and work experinces and also my interests, I consider myself data science and machine learning enthusiast.
 - 📫 One could reach me at sakshimisra0307@gmail.com .
 
